@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sNXnLLdUOpRxJqGs0LxUv0o9fSbYL3AD241+c1EBbDEUogU1FTQOOPe+R+9PZEVqwVEwAsyZLnzXEb7R57tAsw==",
+  "dgSpecHash": "sQ9rih3dZhf+0vTs2CCN/3tS8/GRoLWNIH2bQDAF7hULLPW70kVd8ATGAI1bhn/hyELyV9OILAVlAajgLnyJSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Casper\\source\\repos\\Independent\\latus\\devops-challenge-dotnet\\tests\\DevOpsChallenge.SalesApi.IntegrationTests\\DevOpsChallenge.SalesApi.IntegrationTests.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.7.1\\microsoft.testplatform.objectmodel.16.7.1.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.testplatform.testhost\\16.7.1\\microsoft.testplatform.testhost.16.7.1.nupkg.sha512",
+    "C:\\Users\\Casper\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

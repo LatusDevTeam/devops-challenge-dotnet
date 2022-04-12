@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t6wfugJ+vPUk8HU04hd6gnasmYFQe/KU+6LogKPyyUnlEfWfM3kTGmPMJdUejKodOpHraTUM+v3lBIT4hgWmEQ==",
+  "dgSpecHash": "6p//Zrp/ERzHYuS2ruR+f/ov+poTRaHMYmnIW4OSajWgwIZE1fdCahZk7VnAmcU6+3DYok6qsitB83RBct49Jg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Casper\\source\\repos\\Independent\\latus\\devops-challenge-dotnet\\src\\DevOpsChallenge.SalesApi\\DevOpsChallenge.SalesApi.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Casper\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
